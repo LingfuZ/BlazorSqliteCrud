@@ -1,0 +1,70 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options directory
+vs/
+
+# MSTest test Results
+[Tt]est [Rr]esult*/
+[Bb]uild [Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# DNX project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Web workbench (sass)
+sass-cache/
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Node.js Tools for Visual Studio
+ntvs_analysis.dat
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Mac OSX files
+DS_Store
+
+# Node modules and Bower components
+node_modules/
+bower_components/
+
+# Blazor specific directories and files
+vscode/
+dotnet/
+*.binlog
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.vsidx
